@@ -3,9 +3,9 @@
 ### Front-end
 ![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=REACT)
 ![ES6](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
-![Electron](https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=&logoColor=1)
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=red)
-![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css&logoColor=fff)
+![Electron](https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=Electron&logoColor=1)
+![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3)
 ![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS&logoColor=)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
 
@@ -22,17 +22,6 @@
 ![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=Heroku&logoColor=violet)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=PyCharm&logoColor=)
 ![VSCode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=)
-
-
-
-
-### My works
-
--  Work name
-[Code](https://github.com/dev_ismoilov) | [Demo](https://github.com/dev_ismoilov)
-  
--  Work name
-[Code](https://github.com/dev_ismoilov) | [Demo](https://github.com/dev_ismoilov)
 
 ### Follow me!
 [![telegram](https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram)](https://t.me/dev_ismoilov)
