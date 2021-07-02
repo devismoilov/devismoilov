@@ -1,4 +1,4 @@
-### Hi there! ✋ My names Ilhombek (young, purposeful, promising)
+### Hi there! ✋ My names Ilhombek
 
 ### Front-end
 ![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=REACT)
