@@ -18,7 +18,7 @@
 
 ### Tools
 ![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=GIT)
-![GitHub](https://img.shields.io/badge/ESLint-000?style=for-the-badge&logo=GitHub&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=fff)
 ![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=Heroku&logoColor=violet)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=PyCharm&logoColor=)
 ![VSCode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=)
