@@ -12,8 +12,6 @@
 ### Additional
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
 ![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=Selenium)
-![Pyrogram](https://img.shields.io/badge/Pyrogram-000?style=for-the-badge&logo=Pyrogram)
-![Aiogram](https://img.shields.io/badge/Aiogram-000?style=for-the-badge&logo=Aiogram)
 
 
 ### Tools
