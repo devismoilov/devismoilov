@@ -14,9 +14,10 @@
 
 ### Additional
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
+![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=Selenium)
+![Django](https://img.shields.io/badge/Django-000?style=for-the-badge&logo=Djangp)
 ![Pyrogram](https://img.shields.io/badge/Pyrogram-000?style=for-the-badge&logo=Pyrogram)
 ![Aiogram](https://img.shields.io/badge/Aiogram-000?style=for-the-badge&logo=Aiogram)
-![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=Selenium)
 
 ### Tools
 ![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=GIT)
