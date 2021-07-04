@@ -2,6 +2,7 @@
 
 ### Front-end
 ![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=REACT)
+![Electron](https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=Electron)
 ![ES6](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3)
@@ -12,8 +13,9 @@
 
 ### Additional
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-000?style=for-the-badge&logo=Pyrogram)
+![Aiogram](https://img.shields.io/badge/Aiogram-000?style=for-the-badge&logo=Aiogram)
 ![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=Selenium)
-![Electron](https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=Electron)
 
 ### Tools
 ![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=GIT)
