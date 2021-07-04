@@ -29,3 +29,6 @@
 [![telegram](https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram)](https://t.me/dev_ismoilov)
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilhombek-ismoilov-b19191202/)
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/dev_ismoilov/)
+
+### Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devismoilov&show_icons=true&theme=dracula)
