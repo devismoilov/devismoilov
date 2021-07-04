@@ -1,4 +1,5 @@
 ### Hi there! ✋ My names Ilhombek
+Developer of web and crossplatform applications, bots for Telegram and parsers of any complexity in Python.
 
 ### Front-end
 ![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=REACT)
