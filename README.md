@@ -33,4 +33,4 @@
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/dev_ismoilov/)
 
 ### Statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devismoilov&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devismoilov&show_icons=true&theme=dracula)
