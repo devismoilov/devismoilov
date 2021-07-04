@@ -3,23 +3,24 @@
 ### Front-end
 ![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=REACT)
 ![ES6](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=yellow)
-![Electron](https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=Electron&logoColor=1)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3)
-![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS&logoColor=)
+![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS)
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=Bootstrap)
+![Gulp](https://img.shields.io/badge/Gulp-000?style=for-the-badge&logo=Gulp)
+![Webpack](https://img.shields.io/badge/Webpack-000?style=for-the-badge&logo=Webpack)
 
 ### Additional
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python)
 ![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=Selenium)
-
+![Electron](https://img.shields.io/badge/Electron-000?style=for-the-badge&logo=Electron)
 
 ### Tools
 ![GIT](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=GIT)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub)
 ![Heroku](https://img.shields.io/badge/Heroku-000?style=for-the-badge&logo=Heroku&logoColor=violet)
-![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=PyCharm&logoColor=)
-![VSCode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=)
+![PyCharm](https://img.shields.io/badge/PyCharm-000?style=for-the-badge&logo=PyCharm&logoColor=green)
+![VSCode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 
 ### Follow me!
 [![telegram](https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram)](https://t.me/dev_ismoilov)
