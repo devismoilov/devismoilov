@@ -1,4 +1,4 @@
-## Hi there! ✋ My names Ilhombek Ismoilov
+## Hi there! 👋 My names Ilhombek Ismoilov
 
 #### Developer of web and crossplatform applications,<br/> bots for Telegram and parsers of any complexity in Python.
 
