@@ -1,8 +1,9 @@
 # 👨‍💻 Hi There! 👋 My names Ilhombek Ismoilov
+[![website](https://img.shields.io/badge/devismoilov-000?style=for-the-badge&logo=github)](https://devismoilov.github.io/devismoilov/)
 [![linkedin](https://img.shields.io/badge/@ilhombek_ismoilov-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/ilhombek-ismoilov/)
 [![telegram](https://img.shields.io/badge/@dev_ismoilov-000?style=for-the-badge&logo=telegram)](https://t.me/dev_ismoilov)
-[![gmail](https://img.shields.io/badge/devismoilov@gmail.com-000?style=for-the-badge&logo=gmail)](mailto:devismoilov@gmail.com)
 <br/>
+[![gmail](https://img.shields.io/badge/devismoilov@gmail.com-000?style=for-the-badge&logo=gmail)](mailto:devismoilov@gmail.com)
 [![instagram](https://img.shields.io/badge/@dev_ismoilov-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/dev_ismoilov/)
 [![discord](https://img.shields.io/badge/ilhombek_ismoilov_2873-000?style=for-the-badge&logo=discord)](https://discord.com/users/635580816625238085)
 
