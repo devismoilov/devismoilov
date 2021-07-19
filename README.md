@@ -54,6 +54,15 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-000?style=for-the-badge&logo=PyCharm&logoColor=green)
 ![VSCode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=blue)
 
+### 👻 Design
+
+![Adobe Photoshop](https://img.shields.io/badge/photoshop-000?style=for-the-badge&logo=adobe-photoshop)
+![Adobe XD](https://img.shields.io/badge/adobe_xd-000?style=for-the-badge&logo=adobe-xd)
+![Figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-000?style=for-the-badge&logo=Canva)
+![Draw IO](https://img.shields.io/badge/draw_io-000?style=for-the-badge&logo=draw-io)
+<br/>
+![Bootstrap Studio](https://img.shields.io/badge/bootstrap_studio-000?style=for-the-badge&logo=bootstrap-studio)
 
 # 📊 Statistics
 
