@@ -13,7 +13,7 @@
 * 🔭 I’m currently working on <strong>Freelance</strong>
 * 🌱 Learning about <strong>Django</strong>, <strong>ReactJS</strong>.
 * 💬 Ask me about <strong>JavaScript and Python</strong>.
-* 👨‍💻 Some of my <strong>projects</strong> are available on <a href="https://github.com/devismoilov?tab=repositories">repositories</a>.
+* 👨‍💻 Some of my <strong>projects</strong> are available on <a href="https://github.com/devismoilov?tab=repositories"><strong>repositories</strong></a>.
 * 🦹 Favourite super villain [<strong>Pennywise 🤡</strong>](https://en.wikipedia.org/wiki/It_(character))
 * ⚡ Fun fact: I drink lot of <strong>Coffees ☕</strong>
 
